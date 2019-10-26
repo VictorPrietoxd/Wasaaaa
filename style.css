@@ -7,7 +7,7 @@ hr{
 body{
     display: flex;
     justify-content: center;
-    background-color:rgb(0, 186, 141);
+    background-image: url(HD.jpg);
 }
 .container{
     background-color:aliceblue;
